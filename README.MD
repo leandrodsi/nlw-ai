@@ -1,4 +1,4 @@
-# AI Transcription and Response Service
+# upload-ai
 
 This project offers a comprehensive solution for processing video content, performing transcription on the video's audio, and leveraging AI capabilities to generate responses based on user prompts. The repository encompasses both the frontend and backend components of this service.
 
