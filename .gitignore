@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+/upload-ai-web/logs
+/upload-ai-web/*.log
+/upload-ai-web/npm-debug.log*
+/upload-ai-web/yarn-debug.log*
+/upload-ai-web/yarn-error.log*
+/upload-ai-web/pnpm-debug.log*
+/upload-ai-web/lerna-debug.log*
+
+/upload-ai-web/node_modules
+/upload-ai-web/dist
+/upload-ai-web/dist-ssr
+/upload-ai-web/*.local
+
+# Editor directories and files
+/upload-ai-web/.vscode/*
+/upload-ai-web/!.vscode/extensions.json
+/upload-ai-web/.idea
+/upload-ai-web/.DS_Store
+/upload-ai-web/*.suo
+/upload-ai-web/*.ntvs*
+/upload-ai-web/*.njsproj
+/upload-ai-web/*.sln
+/upload-ai-web/*.sw?
+
+/tmp
+/upload-ai-api/tmp
+/upload-ai-api/node_modules
